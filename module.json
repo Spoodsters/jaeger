@@ -1,0 +1,23 @@
+{
+  "id": "jaeger",
+  "title": "Jaeger",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "jaeger",
+      "label": "Jaeger",
+      "path": "packs/jaeger",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "www.gay.com"
+}
